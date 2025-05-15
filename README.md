@@ -39,4 +39,4 @@ A simple console-based C# application that allows users to manage students and t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/StudentGradebookSystem.git
+   git clone https://github.com/your-username/StudentGradebook-System.git
